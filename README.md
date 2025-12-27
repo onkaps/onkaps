@@ -11,7 +11,7 @@
   <a href="https://codeforces.com/profile/onkaps" target="_blank">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
   </a>
-  <a href="https://www.codechef.com/users/onkaps" target="_blank">
+  <a href="https://www.codechef.com/users/onkaps18" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
   </a>
 </p>
