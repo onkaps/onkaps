@@ -1,3 +1,23 @@
+<h1 align="center">Hi 👋, I'm Onkar Kapuskari</h1>
+
+<h3 align="center">
+  ex-Deloitte Intern • VIT Pune (2026) • Systems & Backend Engineer
+</h3>
+
+<p align="center">
+  <a href="https://leetcode.com/onkaps/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=flat&logo=leetcode&logoColor=FFA116" />
+  </a>
+  <a href="https://codeforces.com/profile/onkaps" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://www.codechef.com/users/onkaps" target="_blank">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white" />
+  </a>
+</p>
+
+
+
 # 💫 About Me:
 🔭 I’m currently working on systems and backend-focused projects, including an x86-64 operating system and enterprise-grade automation tools.<br>👯 I’m looking to collaborate on backend, systems software, compiler-related, and cloud-native projects.<br>🤝 I’m looking for help with low-level systems design, OS internals, and scalable backend architectures.<br>🌱 I’m currently learning advanced backend engineering, distributed systems, and compiler/toolchain concepts.<br>💬 Ask me about C/C++, operating systems, backend development, REST APIs, SAP BTP, or machine learning fundamentals.<br>⚡ Fun fact: I enjoy switching between low-level systems code and high-level ML/backend projects—it keeps my problem-solving sharp.<br>
 
